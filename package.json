@@ -2,7 +2,7 @@
   "name": "traviart-studio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://254lab.github.io/documentation",
+  "homepage": "https://254lab.github.io",
   "scripts": {
     "dev": "next dev",
     "start": "next start",
