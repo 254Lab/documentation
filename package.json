@@ -1,15 +1,15 @@
 {
-  "homepage": "https://your-organization-or-username.github.io/my-nextjs-app",
   "name": "traviart-studio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://254Lab.github.io/documentation",
   "scripts": {
     "dev": "next dev",
     "start": "next start",
     "lint": "next lint",
     "replaceFilePaths": "node replacer.js",
-    "build": "next build && next export -o build && npm run replaceFilePaths",
     "export": "next export -o build && npm run replaceFilePaths",
+    "build": "next build && next export -o build && npm run replaceFilePaths",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },

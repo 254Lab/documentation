@@ -6,7 +6,7 @@ const nextConfig = {
     path: "",
   },
   env: {
-    PUBLIC_URL: "https://your-organization-or-username.github.io/my-nextjs-app",
+    PUBLIC_URL: "https://254Lab.github.io/documentation",
     assetPrefix: "./",
   },
 };
